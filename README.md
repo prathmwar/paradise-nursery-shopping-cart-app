@@ -21,7 +21,7 @@ Welcome to the Shopping Cart React App! This project allows users to browse item
 
 Click the link below to see the live version of the app:
 
-[Live Demo](https://username.github.io/repository-name)  
+[Live Demo](https://willie-conway.github.io/paradise-nursery-shopping-cart-app/)  
 *Note: Replace `username` with your GitHub username and `repository-name` with your GitHub repository name.*
 
 ## 📥 Installation
