@@ -10,6 +10,16 @@ Welcome to the Shopping Cart React App! This project allows users to browse item
 - 🌐 Deployed on **GitHub Pages**
 - ⚡ Fast and responsive UI
 
+## 📚 Wesite Overview
+
+<p float="left">
+    <img src="https://github.com/Willie-Conway/paradise-nursery-shopping-cart-app/blob/1f7083972a335107bdd48e267f8701cd90fcbcdb/Screenshots/Home%20Screen.png" width="300" />
+    <img src="https://github.com/Willie-Conway/paradise-nursery-shopping-cart-app/blob/1f7083972a335107bdd48e267f8701cd90fcbcdb/Screenshots/Plants.png" width="300" />
+    <img src="https://github.com/Willie-Conway/paradise-nursery-shopping-cart-app/blob/1f7083972a335107bdd48e267f8701cd90fcbcdb/Screenshots/Added%20To%20Cart.png" width="300" />
+    <img src="https://github.com/Willie-Conway/paradise-nursery-shopping-cart-app/blob/1f7083972a335107bdd48e267f8701cd90fcbcdb/Screenshots/Cart.png" width="300" />
+    <img src="https://github.com/Willie-Conway/paradise-nursery-shopping-cart-app/blob/1f7083972a335107bdd48e267f8701cd90fcbcdb/Screenshots/Checkout.png" width="300" />
+</p>
+
 ## 🛠️ Technologies Used
 
 - **React** – A JavaScript library for building user interfaces
