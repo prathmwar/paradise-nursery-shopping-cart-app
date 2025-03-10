@@ -124,4 +124,4 @@ Thanks for checking out the **Shopping Cart React App**! 🛍️👨‍💻
 - **📚 License**: Information on the project license.
 - **💬 Questions or Feedback?**: Encourages users to ask questions or give feedback.
 
-Feel free to update any parts of the README as needed, such as the live demo URL and repository name.
+
