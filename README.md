@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🌿 Paradise Nursery Shopping Cart React App
 
@@ -135,3 +136,6 @@ Thanks for checking out the **Shopping Cart React App**! 🛍️👨‍💻
 - **💬 Questions or Feedback?**: Encourages users to ask questions or give feedback.
 
 
+=======
+# paradise-nursery-shopping-cart-app
+>>>>>>> da1533bcd44749699d112b89194a6801060894f4
